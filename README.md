@@ -76,10 +76,11 @@ In hybrid mode, users use a crosshair and a 'connect' button to select two subje
 ## Cite Us
 
 ```
-@article{song2023leveraging,
+@inproceedings{song2023leveraging,
   title={Leveraging Motion Tracking for Intuitive Interactions in a Tablet-Based 3D Scene Annotation System},
   author={Song, Tianyu and Eck, Ulrich and Navab, Nassir},
   booktitle={2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)},
+  pages={563--572},
   year={2023},
   organization={IEEE}
 }
